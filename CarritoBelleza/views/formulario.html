@@ -1,0 +1,37 @@
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="css/ingresarProducto.css">
+    <title>Formulario Registro</title>
+</head>
+
+
+<body>
+    <div class="ingresarProducto">
+        <h4>Ingresar Producto</h4>
+        <form action="/producto" method="post">
+            Imagen:
+            <input class="datos" id="imagen" type="text" placeholder="url" class="form-control ,y-2"></br>
+
+            Titulo:
+            <input class="datos" id="titulo" type="text" placeholder="Titulo del producto"
+                class="form-control my-2"></br>
+
+            Descripción:
+            <input class="datos" id="cantidad" type="text" placeholder="Descripcion articulo" class="form-control ,y-2"></br>
+
+            $
+            <input class="datos" id="precio" type="text" placeholder="Ingrese costo del producto"
+                class="form-control ,y-2"></br>
+
+            <button class="datos" id=boton" class="btn btn-success" type="reset" onclick="registrar();">Agregar</button>
+            <button class="datos" id=boton" class="btn btn-success" type="reset" onclick="limpiarHTML();">Borrar ultimo
+                elemento</button>
+        </form>
+
+
+    </div>
+</body>
+
+</html>
