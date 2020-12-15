@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "5fd692910d25a517e89a416e"
+  },
+  "imagen": "maquillaje2",
+  "titulo": "Base de maquillaje",
+  "descripcion": "Cobertura matificante ayuda a disminuir el efecto de luz blanca.",
+  "precio": "380",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd6931e0d25a517e89a416f"
+  },
+  "imagen": "labial2",
+  "titulo": "Labial rosa",
+  "descripcion": "De larga duración siente su textura humectante",
+  "precio": "230",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd6938e0d25a517e89a4170"
+  },
+  "imagen": "sombras2",
+  "titulo": "Sombras",
+  "descripcion": "Suaves y aterciopelados pigmentos, para darle a tu mirada un look coqueto y elegante.",
+  "precio": "890",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd693fd0d25a517e89a4171"
+  },
+  "imagen": "bolsa2",
+  "titulo": "Bolso",
+  "descripcion": "Bolso rosa y negro de moda con diseño de kitty hombros",
+  "precio": "1300",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd694e40d25a517e89a4173"
+  },
+  "imagen": "reloj2",
+  "titulo": "Reloj",
+  "descripcion": "Reloj de pulsera para mujer, oro rosa.",
+  "precio": "570",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd695670d25a517e89a4174"
+  },
+  "imagen": "pendientes",
+  "titulo": "Pendientes",
+  "descripcion": "Pendientes para dama de plata, diamantes de imitación",
+  "precio": "450",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd695ad0d25a517e89a4175"
+  },
+  "imagen": "mascarillalodo",
+  "titulo": "Mascarilla",
+  "descripcion": "Belleza y Cuidado personal exfolia y deja tú piel suave y tersa",
+  "precio": "320",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd696330d25a517e89a4176"
+  },
+  "imagen": "aguaperfume",
+  "titulo": "Agua de perfume",
+  "descripcion": "Pure gold agua de perfume, irresistible aroma para momentos extraordinarios.",
+  "precio": "800",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd6968a0d25a517e89a4177"
+  },
+  "imagen": "locioncaballero",
+  "titulo": "Locion de Caballero",
+  "descripcion": "Fragancia Absolute Leather. Captura la esencia del estilo moderno, con frescos cítricos italianos.",
+  "precio": "900",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd696d40d25a517e89a4178"
+  },
+  "imagen": "perfumerosa2",
+  "titulo": "Loción rosa",
+  "descripcion": "Extracto rosas rojas, aroma para momentos inolvidables.",
+  "precio": "12000",
+  "__v": 0
+}]
